@@ -123,13 +123,13 @@ input, button{
   width: 226px;
 }
 
-button.list__button-del img {
+.list__button-del__img {
   height: 2em;
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
 
-button.list__button-del img:hover {
+.list__button-del__img:hover {
   transform: rotateZ(0);
 }
 
