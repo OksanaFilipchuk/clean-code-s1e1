@@ -111,12 +111,12 @@ input, button{
   width: 226px;
 }
 
-button.list__task__button-del img {
+button.list__button-del img {
   height: 2em;
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
-button.list__task__button-del img:hover {
+button.list__button-del img:hover {
   transform: rotateZ(0);
 }
 
